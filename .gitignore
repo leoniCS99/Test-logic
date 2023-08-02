@@ -1,0 +1,5 @@
+config.json
+*.tmp
+build/
+dist/
+node_modules/
